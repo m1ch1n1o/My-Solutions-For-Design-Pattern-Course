@@ -1,0 +1,2 @@
+# added for running:
+# 'pytest .'
